@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Deepanshu Anand
 - 👀 I’m interested in Cyber Security and AI
 - 🌱 I’m currently learning C++
+- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deepanshu0810&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--- - 💞️ I’m looking to collaborate on ...--->
 <!--- - 📫 Reach me through --->
 
