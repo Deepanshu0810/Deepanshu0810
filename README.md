@@ -13,7 +13,12 @@
 
 ## Skills acquired
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,c,cpp,html,css,git)](https://skills.thijs.gg)
+[![Python](https://skills.thijs.gg/icons?i=py)](https://www.python.org/)
+[![C](https://skills.thijs.gg/icons?i=c)](https://www.tutorialspoint.com/cprogramming/index.htm)
+[![CPP](https://skills.thijs.gg/icons?i=cpp)](https://www.cplusplus.com/)
+[![HTML](https://skills.thijs.gg/icons?i=html)](https://www.w3schools.com/html/)
+[![CSS](https://skills.thijs.gg/icons?i=css)](https://www.w3schools.com/css/)
+[![git](https://skills.thijs.gg/icons?i=git)](https://git-scm.com/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 <!--- - 💞️ I’m looking to collaborate on ...--->
