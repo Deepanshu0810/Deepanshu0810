@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Deepanshu Anand
-- 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Data Structures and Algorithms in JAVA
+<h1 align="center">👋 Hi, I’m Deepanshu Anand</h1>
+<div align="center">
+   <h4>Machine Learning | Data Analytics | Web Development</h4>
+</div>
+
+- 🌱 I’m currently learning DSA in JAVA and Web Development
 - 📧 Reach me at deepanshu0810@gmail.com
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanshu0810&show_icons=true&locale=en" alt="deepanshu0810" /></p>
 
 ## My social Handles
 
@@ -26,11 +28,15 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepanshu0810&show_icons=true&locale=en&layout=compact" alt="deepanshu0810" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu0810&" alt="deepanshu0810" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshu0810&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshu0810" /> </p>
+<h2 align="center">My Stats</h2>
+<p align="center">
+  <img width=48%align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu0810&theme=onedark" alt="deepanshu0810" />
+  <img width=48% height=200px align="right" src="https://github-readme-stats.vercel.app/api?username=deepanshu0810&show_icons=true&locale=en&theme=onedark" alt="deepanshu0810" />
+</p>
+<div align="center">
+  <img width=48% src="https://github-readme-stats.vercel.app/api/top-langs?username=deepanshu0810&show_icons=true&locale=en&layout=compact&theme=onedark" alt="deepanshu0810" />
+ </div>
+<!-- <img src="https://komarev.com/ghpvc/?username=deepanshu0810&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshu0810" /> -->
 
 <!--- - 💞️ I’m looking to collaborate on ...--->
 <!--- - 📫 Reach me through --->
