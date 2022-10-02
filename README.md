@@ -5,6 +5,9 @@
 
 - 🌱 I’m currently learning DSA in JAVA and Web Development
 - 📧 Reach me at deepanshu0810@gmail.com
+<div>
+   <img src="https://komarev.com/ghpvc/?username=deepanshu0810&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshu0810" />
+</div>
 
 
 ## My social Handles
@@ -34,13 +37,11 @@
 
 <h2 align="center">My Stats</h2>
 <div align="center">
-  <img width=45% align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu0810&theme=onedark" alt="deepanshu0810" />
-  <img width=45% align="right" src="https://github-readme-stats.vercel.app/api?username=deepanshu0810&show_icons=true&locale=en&theme=onedark" alt="deepanshu0810" />
+  <img width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu0810&theme=onedark" alt="deepanshu0810" />
+  <img width=45% src="https://github-readme-stats.vercel.app/api?username=deepanshu0810&show_icons=true&locale=en&theme=onedark" alt="deepanshu0810" />
 </div>
 
-<div>
-   <img src="https://komarev.com/ghpvc/?username=deepanshu0810&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshu0810" />
-</div>
+
 <!--- - 💞️ I’m looking to collaborate on ...--->
 <!--- - 📫 Reach me through --->
 
