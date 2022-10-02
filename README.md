@@ -28,16 +28,19 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
-<h2 align="center">My Stats</h2>
-<p align="center">
-  <img width=48%align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu0810&theme=onedark" alt="deepanshu0810" />
-  <img width=48% height=200px align="right" src="https://github-readme-stats.vercel.app/api?username=deepanshu0810&show_icons=true&locale=en&theme=onedark" alt="deepanshu0810" />
-</p>
 <div align="center">
-  <img width=48% src="https://github-readme-stats.vercel.app/api/top-langs?username=deepanshu0810&show_icons=true&locale=en&layout=compact&theme=onedark" alt="deepanshu0810" />
+  <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=deepanshu0810&show_icons=true&locale=en&layout=compact&theme=onedark" alt="deepanshu0810" />
  </div>
-<!-- <img src="https://komarev.com/ghpvc/?username=deepanshu0810&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshu0810" /> -->
 
+<h2 align="center">My Stats</h2>
+<div align="center">
+  <img width=45% align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu0810&theme=onedark" alt="deepanshu0810" />
+  <img width=45% align="right" src="https://github-readme-stats.vercel.app/api?username=deepanshu0810&show_icons=true&locale=en&theme=onedark" alt="deepanshu0810" />
+</div>
+
+<div>
+   <img src="https://komarev.com/ghpvc/?username=deepanshu0810&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshu0810" />
+</div>
 <!--- - 💞️ I’m looking to collaborate on ...--->
 <!--- - 📫 Reach me through --->
 
