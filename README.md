@@ -32,13 +32,13 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
 <div align="center">
-  <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=deepanshu0810&show_icons=true&locale=en&layout=compact&theme=onedark" alt="deepanshu0810" />
- </div>
+  <img width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu0810&theme=onedark&layout=compact" />
+</div>
 
 <h2 align="center">My Stats</h2>
 <div align="center">
   <img width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu0810&theme=onedark" alt="deepanshu0810" />
-  <img width=45% src="https://github-readme-stats.vercel.app/api?username=deepanshu0810&show_icons=true&locale=en&theme=onedark" alt="deepanshu0810" />
+  <img width=45% src="https://github-readme-stats.vercel.app/api?username=Deepanshu0810&show_icons=true&theme=onedark"
 </div>
 
 
