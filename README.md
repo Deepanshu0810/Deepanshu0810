@@ -1,10 +1,12 @@
 [![@deepanshu0810's Holopin board](https://holopin.io/api/user/board?user=deepanshu0810)](https://holopin.io/@deepanshu0810)
 <h1 align="center">👋 Hi, I’m Deepanshu Anand</h1>
 <div align="center">
-   <h4>Machine Learning | Data Analytics | Web Development</h4>
+   <h4>Machine Learning | Data Analytics | Data Science</h4>
 </div>
 
-- 🌱 I’m currently learning DSA in JAVA and Web Development
+- 🌱 Learning JAVA for Data Structures and Algorithms
+- 🐍 Aspiring Data Scientist 
+- ⏳ Busy Building End-to-End Data Science and ML projects 
 - 📧 Reach me at deepanshu0810@gmail.com
 <div>
    <img src="https://komarev.com/ghpvc/?username=deepanshu0810&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshu0810" />
