@@ -45,13 +45,13 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
 <div align="center">
-  <img width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu0810&theme=onedark&layout=compact" />
+  <img width=30% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu0810&theme=onedark" />
 </div>
 
 <h2 align="center">My Stats</h2>
 <div align="center">
-  <img width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu0810&theme=onedark" alt="deepanshu0810" />
-  <img width=45% src="https://github-readme-stats.vercel.app/api?username=Deepanshu0810&show_icons=true&theme=onedark"
+  <img width=500px src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu0810&theme=onedark" alt="deepanshu0810" />
+  <img width=500px src="https://github-readme-stats.vercel.app/api?username=Deepanshu0810&show_icons=true&theme=onedark"
 </div>
 
 
