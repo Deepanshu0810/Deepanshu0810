@@ -4,10 +4,10 @@
    <h4>Machine Learning | Data Analytics | Data Science</h4>
 </div>
 
-- 🌱 Learning JAVA for Data Structures and Algorithms
+- 🌱 Learning Python Development and Deep Learning
 - 🐍 Aspiring Data Scientist 
 - ⏳ Busy Building End-to-End Data Science and ML projects 
-- 📧 Reach me at deepanshu0810@gmail.com
+- 📧 Reach me at <a href="mailto:deepanshu0810@gmail.com">deepanshu0810@gmail.com</a>
 <div>
    <img src="https://komarev.com/ghpvc/?username=deepanshu0810&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshu0810" />
 </div>
@@ -15,13 +15,14 @@
 
 ## My social Handles
 
-<a href="https://www.instagram.com/deepanshu.anand.7/" target="blank"><img align="center" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="@deepanshu.anand.7" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/deepanshu-anand-55a6b4214" target="blank"><img align="center" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" height="50" width="50" /></a>
-<a href="https://twitter.com/deepanshu0810" target="blank"><img align="center" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" height="50" width="50"/></a>
+<a href="https://instagram.com/deepanshu.anand.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepanshu.anand.7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deepanshu0810anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu0810anand" height="30" width="40" /></a>
+<a href="https://twitter.com/deepanshu0810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepanshu0810" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/DeepanshuAnand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepanshuanand" height="30" width="40" /></a>
 
 ## My Blogs
 <a href="https://medium.com/@deep05anand" target="blank"><img align="center" src="https://camo.githubusercontent.com/a583b5ce3b463c784cb87592b3da7b9b9d014d7a16adfff04b91cb1452ae4ca2/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d656469756d2e737667" height="50" width="50" /></a>
-
+<a href="https://dev.to/deepanshu0810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="deepanshu0810" height="30" width="40" /></a>
 
 ## Skills acquired
 
@@ -46,6 +47,7 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 </p>
 
 <div align="center">
