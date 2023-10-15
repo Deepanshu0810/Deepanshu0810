@@ -8,6 +8,7 @@
 - 🐍 Aspiring Data Scientist 
 - ⏳ Busy Building End-to-End Data Science and ML projects 
 - 📧 Reach me at <a href="mailto:deepanshu0810@gmail.com">deepanshu0810@gmail.com</a>
+- 📜 [My resume](https://deepanshu-portfolio-python.streamlit.app/) 
 <div>
    <img src="https://komarev.com/ghpvc/?username=deepanshu0810&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshu0810" />
 </div>
